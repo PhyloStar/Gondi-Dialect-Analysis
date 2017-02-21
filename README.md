@@ -15,7 +15,7 @@ The program outputs the cognate judgments for each word belonging to a concept a
 The data folder contains *gondi_combined.tsv* file that contains the word lists in IPA, ASJP, and SCA format.
 Another file *gondi_combined_cognates.csv* contains the cognate information given by Taraka Rama (the lead author of the paper).
 
-Finally the `mrbayes/run.mb` file consists of [MrBayes](http://mrbayes.sourceforge.net/) commands that produce the consensus tree that can be visualized using [FigTree](http://beast.bio.ed.ac.uk/figtree). We provide a consensus tree for visualization. The tree is a rooted tree and uses Independent Gamma Branch Rates for the purpose of inferring trees. The `.nexus` file is also provided in the `mrbayes` folder.
+Finally the `mrbayes/run.mb` file consists of [MrBayes](http://mrbayes.sourceforge.net/) commands that produce the consensus tree that can be visualized using [FigTree](http://beast.bio.ed.ac.uk/figtree). We provide a consensus tree for visualization. The tree is a rooted tree and uses Independent Gamma Branch Rates for the purpose of inferring trees. The `.nexus` file is also provided in the `mrbayes` folder. The `.tre` file provides the consensus tree from our analysis.
 
 ##Maps
 The `gondi.kml` file is in the `maps` folder that is useful for the purpose of visualization.
