@@ -15,3 +15,4 @@ The program outputs the cognate judgments for each word belonging to a concept a
 The data folder contains *gondi_combined.tsv* file that contains the word lists in IPA, ASJP, and SCA format.
 Another file *gondi_combined_cognates.csv* contains the cognate information given by Taraka Rama (the lead author of the paper).
 
+Finally the `run.mb` file consists of MrBayes commands that produce the consensus tree that can be visualized using [FigTree](http://beast.bio.ed.ac.uk/figtree)
