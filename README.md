@@ -12,8 +12,8 @@ For example: `python3 online_pmi.py gondi_ldn_ipa1.txt data/gondi_combined.tsv I
 The program outputs the cognate judgments for each word belonging to a concept and the number of clusters found for each concept.
 
 
-The data folder contains *gondi_combined.tsv* file that contains the word lists in IPA, ASJP, and SCA format.
-Another file *gondi_combined_cognates.csv* contains the cognate information given by Taraka Rama (the lead author of the paper).
+The data folder contains `gondi_combined.tsv` file that contains the word lists in IPA, ASJP, and SCA format.
+Another file `gondi_combined_cognates.csv` contains the cognate information given by Taraka Rama (the lead author of the paper).
 
 Finally the `mrbayes/run.mb` file consists of [MrBayes](http://mrbayes.sourceforge.net/) commands that produce the consensus tree that can be visualized using [FigTree](http://beast.bio.ed.ac.uk/figtree). We provide a consensus tree for visualization. The tree is a rooted tree and uses Independent Gamma Branch Rates for the purpose of inferring trees. The `.nexus` file is also provided in the `mrbayes` folder. The `.tre` file provides the consensus tree from our analysis.
 
