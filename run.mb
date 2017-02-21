@@ -1,0 +1,9 @@
+begin MrBayes;
+exec gondi_train_pmi_ipa_clusters2x.nex;
+lset rates=gamma;
+prset brlenspr = clock:uniform;
+prset clockvarpr = igr;
+mcmc ngen=4000000 filename = gondi_train_pmi_ipa_clusters2x.igr;
+sump;
+sumt;
+end;
