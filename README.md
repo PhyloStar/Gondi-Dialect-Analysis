@@ -19,5 +19,8 @@ Another file `gondi_combined_cognates.csv` contains the cognate information give
 
 Finally the `mrbayes/run.mb` file consists of [MrBayes](http://mrbayes.sourceforge.net/) commands that produce the consensus tree that can be visualized using [FigTree](http://beast.bio.ed.ac.uk/figtree). We provide a consensus tree for visualization. The tree is a rooted tree and uses Independent Gamma Branch Rates for the purpose of inferring trees. The `.nexus` file is also provided in the `mrbayes` folder. The `.tre` file provides the consensus tree from our analysis.
 
-##Maps
+## Maps
 The `gondi.kml` file is in the `maps` folder that is useful for the purpose of visualization.
+- [] Add a pdf to the map
+## Autoencoders
+
