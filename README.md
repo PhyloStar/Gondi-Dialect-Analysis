@@ -25,3 +25,4 @@ The `gondi.kml` file is in the `maps` folder that is useful for the purpose of v
 
 ## Autoencoders
 
+## Requirements
