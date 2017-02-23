@@ -1,8 +1,8 @@
 # Gondi-Dialect-Analysis
 
-This paper is about analyzing 46 Gondi dialects dialects spoken in Central India.
+* This paper is about analyzing 46 Gondi dialects dialects spoken in Central India.
 
-The paper is available as [pdf] (paper/gondi_dialects.pdf)
+* The paper is available as [pdf] (paper/gondi_dialects.pdf) here.
 
 # Cognate clustering and MrBayes
 
