@@ -4,6 +4,17 @@
 
 * The paper is available as [pdf] (paper/gondi_dialects.pdf) here and is accepted for publishing at [VarDial 2017](http://ttg.uni-saarland.de/vardial2017/index.html)
 
+> Please cite the paper as:
+```
+@inproceedings{rama-coltekin-sofroniev2017gondi,
+  title = {A computational analysis fo Gondi dialects},
+  author = {Rama, Taraka and \c{C}\"{o}ltekin, \c{C}a\u{g}r\i{} and Sofroniev, Pavel},
+  date = {2017},
+  booktitle = {Proceedings of the Fourth Workshop on {NLP} for Similar Languages, Varieties and Dialects},
+  pages = {(to appear)},
+  location = {Valencia, Spain},
+}
+```
 # Cognate clustering and MrBayes
 
 The program online_pmi.py produces the nexus file which can be fed into MrBayes for the purpose of tree building.
