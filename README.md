@@ -4,7 +4,7 @@
 
 * The paper is available as [pdf] (paper/gondi_dialects.pdf) here and is accepted for publishing at [VarDial 2017](http://ttg.uni-saarland.de/vardial2017/index.html)
 
-> Please cite the paper as:
+Bibtex:
 ```
 @inproceedings{rama-coltekin-sofroniev2017gondi,
   title = {A computational analysis fo Gondi dialects},
