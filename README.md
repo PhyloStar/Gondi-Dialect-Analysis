@@ -1,5 +1,8 @@
 # Gondi-Dialect-Analysis
 
+[![DOI](https://zenodo.org/badge/82321417.svg)](https://zenodo.org/badge/latestdoi/82321417)
+
+
 * This paper is about analyzing 46 Gondi dialects dialects spoken in Central India.
 
 * The paper is available as [pdf] (paper/gondi_dialects.pdf) here and is accepted for publishing at [VarDial 2017](http://ttg.uni-saarland.de/vardial2017/index.html)
